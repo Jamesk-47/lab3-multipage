@@ -1,3 +1,5 @@
+Esau Ngoma 2021453600
+
 PAGES 
 Home: Hero section with full-viewport background and animated call-to-action button and Section with icon highlights.
 Services: Interactive card grid showcasing resort offerings, hover effects with smooth transitions and responsive layout.
