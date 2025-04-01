@@ -1,4 +1,4 @@
-Esau Ngoma 2021453600
+Group member: Esau Ngoma 2021453600
 
 PAGES 
 Home: Hero section with full-viewport background and animated call-to-action button and Section with icon highlights.
